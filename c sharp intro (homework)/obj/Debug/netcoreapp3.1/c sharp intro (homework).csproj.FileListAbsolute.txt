@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\obj\Debug\netcoreapp3.1\c sharp intro (homework).csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\obj\Debug\netcoreapp3.1\c sharp intro (homework).AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\obj\Debug\netcoreapp3.1\c sharp intro (homework).AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\obj\Debug\netcoreapp3.1\c sharp intro (homework).csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\bin\Debug\netcoreapp3.1\c sharp intro (homework).exe
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\bin\Debug\netcoreapp3.1\c sharp intro (homework).deps.json
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\bin\Debug\netcoreapp3.1\c sharp intro (homework).runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\bin\Debug\netcoreapp3.1\c sharp intro (homework).runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\bin\Debug\netcoreapp3.1\c sharp intro (homework).dll
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\bin\Debug\netcoreapp3.1\c sharp intro (homework).pdb
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\obj\Debug\netcoreapp3.1\c sharp intro (homework).dll
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\obj\Debug\netcoreapp3.1\c sharp intro (homework).pdb
+C:\Users\Александр\source\repos\C sharp homework\c sharp intro (homework)\obj\Debug\netcoreapp3.1\c sharp intro (homework).genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "c sharp intro (homework)/1.0.0": {
+        "runtime": {
+          "c sharp intro (homework).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c sharp intro (homework)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
