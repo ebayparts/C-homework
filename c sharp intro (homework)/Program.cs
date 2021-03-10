@@ -4,16 +4,18 @@ namespace Intro_class
 {
     public class CreditCard
     {
-        public CreditCard(int pinCode)
+        public CreditCard(int pinCode, decimal money = 0)
         {
             setPin(pinCode);
+            setMoney(money);
         }
         int pinCode = 4444;
         public int GetPin()
         {
             return pinCode;
         }
-        void setPin(int pin) {
+        void setPin(int pin)
+        {
             if (pin.ToString().Length != 4)
             {
                 Console.WriteLine("Pin is incorrect");
@@ -21,17 +23,40 @@ namespace Intro_class
             }
             this.pinCode = pin;
         }
+        decimal money = 0;
+        public decimal getMoney()
+        {
+            return this.money;
+        }
+        void setMoney(decimal money)
+        {
+            this.money = money;
+        }
+        public void AddMoney(decimal addedMoney)
+        {
+            this.money += addedMoney;
+        }
+        public void WithDraw(decimal takenMoney)
+        {
+            if (this.money >= takenMoney)
+            {
+                this.money -= takenMoney;
+                Console.WriteLine($"Take cash ${takenMoney} from the ATM in lower slot \n");
+            }
+            else
+                Console.WriteLine($"Not enough money on account\n");
+        }
     }
     class ATM
     {
-        CreditCard creditCard = new CreditCard(4444);
+        decimal money = 0;
+        CreditCard creditCard = new CreditCard(4444, 0);
         int id = 0;
         int idCount = 0;
 
-        decimal money = 0;
-        public ATM(int money)
+        public ATM()
         {
-            this.money = money;
+            this.money = creditCard.getMoney();
             this.idCount++;
             this.id = idCount;
         }
@@ -47,23 +72,19 @@ namespace Intro_class
         }
         public void ShowBalance()
         {
-            Console.WriteLine($"Money on account : ${money}");
+            Console.WriteLine($"Money on account : ${money}\nCredit card money: {creditCard.getMoney()}");
         }
         public void AddMoney(decimal addedMoney)
         {
-            this.money += addedMoney;
-            Console.WriteLine($"Account successfully filled with ${addedMoney}\n" +
+            creditCard.AddMoney(addedMoney);
+            this.money = creditCard.getMoney();
+            Console.WriteLine($"Account successfully filled with ${addedMoney}\n " +
                 $"Money on account : ${money}\n");
         }
         public void WithDraw(decimal takenMoney)
         {
-            if (this.money >= takenMoney)
-            {
-                this.money -= takenMoney;
-                Console.WriteLine($"Take cash ${takenMoney} from the ATM in lower slot \n");
-            }
-            else
-                Console.WriteLine($"Not enough money on account\n");
+            _ = money >= takenMoney ? money -= takenMoney : money;
+            creditCard.WithDraw(takenMoney);
         }
     }
     class Program
@@ -82,7 +103,7 @@ namespace Intro_class
         }
         static void Main(string[] args)
         {
-            ATM account = new ATM(1000);
+            ATM account = new ATM();
             decimal insertedMoney = 0;
             decimal withdrawedMoney = 0;
             try
