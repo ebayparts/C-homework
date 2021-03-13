@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C Sharp HT Array of Arrays/1.0.0": {
+        "runtime": {
+          "C Sharp HT Array of Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C Sharp HT Array of Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

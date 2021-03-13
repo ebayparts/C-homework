@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\bin\Debug\net5.0\C Sharp HT Array of Arrays.exe
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\bin\Debug\net5.0\C Sharp HT Array of Arrays.deps.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\bin\Debug\net5.0\C Sharp HT Array of Arrays.runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\bin\Debug\net5.0\C Sharp HT Array of Arrays.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\bin\Debug\net5.0\C Sharp HT Array of Arrays.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\bin\Debug\net5.0\ref\C Sharp HT Array of Arrays.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\bin\Debug\net5.0\C Sharp HT Array of Arrays.pdb
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\C Sharp HT Array of Arrays.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\C Sharp HT Array of Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\C Sharp HT Array of Arrays.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\C Sharp HT Array of Arrays.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\C Sharp HT Array of Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\C Sharp HT Array of Arrays.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\ref\C Sharp HT Array of Arrays.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\C Sharp HT Array of Arrays.pdb
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Array of Arrays\obj\Debug\net5.0\C Sharp HT Array of Arrays.genruntimeconfig.cache
