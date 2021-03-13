@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Навчання ШАГ\\C sharp\\C sharp homework\\c sharp intro (homework)\\c sharp intro (homework).csproj",
-      "projectName": "c sharp intro (homework)",
-      "projectPath": "D:\\Навчання ШАГ\\C sharp\\C sharp homework\\c sharp intro (homework)\\c sharp intro (homework).csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\source\\repos\\C sharp homework\\C sharp homework\\C sharp homework.csproj",
+      "projectName": "C sharp homework",
+      "projectPath": "C:\\Users\\Александр\\source\\repos\\C sharp homework\\C sharp homework\\C sharp homework.csproj",
       "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-      "outputPath": "D:\\Навчання ШАГ\\C sharp\\C sharp homework\\c sharp intro (homework)\\obj\\",
+      "outputPath": "C:\\Users\\Александр\\source\\repos\\C sharp homework\\C sharp homework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",

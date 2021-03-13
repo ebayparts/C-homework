@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\obj\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\obj\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\obj\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\obj\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\bin\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).exe
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\bin\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).deps.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\bin\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\bin\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\bin\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\bin\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\obj\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\obj\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp Equals Reference Overload  (homework)\obj\Debug\netcoreapp3.1\C sharp Equals Reference Overload  (homework).genruntimeconfig.cache
