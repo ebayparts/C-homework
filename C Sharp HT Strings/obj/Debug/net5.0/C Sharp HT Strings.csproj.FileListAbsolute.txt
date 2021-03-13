@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\bin\Debug\net5.0\C Sharp HT Strings.exe
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\bin\Debug\net5.0\C Sharp HT Strings.deps.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\bin\Debug\net5.0\C Sharp HT Strings.runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\bin\Debug\net5.0\C Sharp HT Strings.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\bin\Debug\net5.0\C Sharp HT Strings.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\bin\Debug\net5.0\ref\C Sharp HT Strings.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\bin\Debug\net5.0\C Sharp HT Strings.pdb
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\C Sharp HT Strings.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\C Sharp HT Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\C Sharp HT Strings.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\C Sharp HT Strings.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\C Sharp HT Strings.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\C Sharp HT Strings.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\ref\C Sharp HT Strings.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\C Sharp HT Strings.pdb
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Strings\obj\Debug\net5.0\C Sharp HT Strings.genruntimeconfig.cache
