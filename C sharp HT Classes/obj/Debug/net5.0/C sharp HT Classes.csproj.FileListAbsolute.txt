@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\bin\Debug\net5.0\C sharp HT Classes.exe
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\bin\Debug\net5.0\C sharp HT Classes.deps.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\bin\Debug\net5.0\C sharp HT Classes.runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\bin\Debug\net5.0\C sharp HT Classes.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\bin\Debug\net5.0\C sharp HT Classes.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\bin\Debug\net5.0\ref\C sharp HT Classes.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\bin\Debug\net5.0\C sharp HT Classes.pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\C sharp HT Classes.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\C sharp HT Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\C sharp HT Classes.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\C sharp HT Classes.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\C sharp HT Classes.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\C sharp HT Classes.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\ref\C sharp HT Classes.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\C sharp HT Classes.pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Classes\obj\Debug\net5.0\C sharp HT Classes.genruntimeconfig.cache
