@@ -108,7 +108,7 @@ namespace C_sharp_Equals_Reference_Overload___homework_
             return (VectorLength()).ToString().GetHashCode();
         }
         private bool IsValidIndex(int index) => index >= 0 && index <= 1;
-        public int this[int index]     //property = indexator  одновимірний індексатор
+        public int this[int index]
         {
             get
             {

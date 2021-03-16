@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\bin\Debug\net5.0\C sharp HT Nullable.exe
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\bin\Debug\net5.0\C sharp HT Nullable.deps.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\bin\Debug\net5.0\C sharp HT Nullable.runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\bin\Debug\net5.0\C sharp HT Nullable.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\bin\Debug\net5.0\C sharp HT Nullable.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\bin\Debug\net5.0\ref\C sharp HT Nullable.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\bin\Debug\net5.0\C sharp HT Nullable.pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\C sharp HT Nullable.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\C sharp HT Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\C sharp HT Nullable.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\C sharp HT Nullable.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\C sharp HT Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\C sharp HT Nullable.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\ref\C sharp HT Nullable.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\C sharp HT Nullable.pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Nullable\obj\Debug\net5.0\C sharp HT Nullable.genruntimeconfig.cache
