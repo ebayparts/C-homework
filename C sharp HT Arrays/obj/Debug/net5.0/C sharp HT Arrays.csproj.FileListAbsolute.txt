@@ -1,0 +1,15 @@
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\bin\Debug\net5.0\C sharp HT Arrays.exe
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\bin\Debug\net5.0\C sharp HT Arrays.deps.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\bin\Debug\net5.0\C sharp HT Arrays.runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\bin\Debug\net5.0\C sharp HT Arrays.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\bin\Debug\net5.0\C sharp HT Arrays.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\bin\Debug\net5.0\ref\C sharp HT Arrays.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\bin\Debug\net5.0\C sharp HT Arrays.pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\ref\C sharp HT Arrays.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.genruntimeconfig.cache
