@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\bin\Debug\net5.0\C sharp HT Exceptions (Employee).exe
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\bin\Debug\net5.0\C sharp HT Exceptions (Employee).deps.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\bin\Debug\net5.0\C sharp HT Exceptions (Employee).runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\bin\Debug\net5.0\C sharp HT Exceptions (Employee).runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\bin\Debug\net5.0\C sharp HT Exceptions (Employee).dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\bin\Debug\net5.0\ref\C sharp HT Exceptions (Employee).dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\bin\Debug\net5.0\C sharp HT Exceptions (Employee).pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\C sharp HT Exceptions (Employee).csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\C sharp HT Exceptions (Employee).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\C sharp HT Exceptions (Employee).AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\C sharp HT Exceptions (Employee).AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\C sharp HT Exceptions (Employee).csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\C sharp HT Exceptions (Employee).dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\ref\C sharp HT Exceptions (Employee).dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\C sharp HT Exceptions (Employee).pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Exceptions (Employee)\obj\Debug\net5.0\C sharp HT Exceptions (Employee).genruntimeconfig.cache
