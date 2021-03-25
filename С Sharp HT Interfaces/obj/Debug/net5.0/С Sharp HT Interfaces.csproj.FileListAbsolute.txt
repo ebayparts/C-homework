@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\С Sharp HT Interfaces.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\С Sharp HT Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\С Sharp HT Interfaces.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\С Sharp HT Interfaces.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\С Sharp HT Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\bin\Debug\net5.0\С Sharp HT Interfaces.exe
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\bin\Debug\net5.0\С Sharp HT Interfaces.deps.json
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\bin\Debug\net5.0\С Sharp HT Interfaces.runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\bin\Debug\net5.0\С Sharp HT Interfaces.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\bin\Debug\net5.0\С Sharp HT Interfaces.dll
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\bin\Debug\net5.0\ref\С Sharp HT Interfaces.dll
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\bin\Debug\net5.0\С Sharp HT Interfaces.pdb
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\С Sharp HT Interfaces.dll
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\ref\С Sharp HT Interfaces.dll
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\С Sharp HT Interfaces.pdb
+C:\Users\Александр\source\repos\C sharp homework\С Sharp HT Interfaces\obj\Debug\net5.0\С Sharp HT Interfaces.genruntimeconfig.cache
