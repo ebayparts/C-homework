@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\bin\Debug\net5.0\C Sharp HT Structs Enums IComparable.exe
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\bin\Debug\net5.0\C Sharp HT Structs Enums IComparable.deps.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\bin\Debug\net5.0\C Sharp HT Structs Enums IComparable.runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\bin\Debug\net5.0\C Sharp HT Structs Enums IComparable.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\bin\Debug\net5.0\C Sharp HT Structs Enums IComparable.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\bin\Debug\net5.0\ref\C Sharp HT Structs Enums IComparable.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\bin\Debug\net5.0\C Sharp HT Structs Enums IComparable.pdb
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\C Sharp HT Structs Enums IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\C Sharp HT Structs Enums IComparable.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\C Sharp HT Structs Enums IComparable.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\C Sharp HT Structs Enums IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\C Sharp HT Structs Enums IComparable.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\ref\C Sharp HT Structs Enums IComparable.dll
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\C Sharp HT Structs Enums IComparable.pdb
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\C Sharp HT Structs Enums IComparable.genruntimeconfig.cache
+C:\Users\Александр\source\repos\C sharp homework\C Sharp HT Structs Enums IComparable\obj\Debug\net5.0\C Sharp HT Structs Enums IComparable.csprojAssemblyReference.cache
