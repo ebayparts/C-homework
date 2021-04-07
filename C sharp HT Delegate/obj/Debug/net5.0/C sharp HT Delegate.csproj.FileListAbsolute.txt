@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\bin\Debug\net5.0\C sharp HT Delegate.exe
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\bin\Debug\net5.0\C sharp HT Delegate.deps.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\bin\Debug\net5.0\C sharp HT Delegate.runtimeconfig.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\bin\Debug\net5.0\C sharp HT Delegate.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\bin\Debug\net5.0\C sharp HT Delegate.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\bin\Debug\net5.0\ref\C sharp HT Delegate.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\bin\Debug\net5.0\C sharp HT Delegate.pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\C sharp HT Delegate.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\C sharp HT Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\C sharp HT Delegate.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\C sharp HT Delegate.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\C sharp HT Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\C sharp HT Delegate.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\ref\C sharp HT Delegate.dll
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\C sharp HT Delegate.pdb
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Delegate\obj\Debug\net5.0\C sharp HT Delegate.genruntimeconfig.cache
