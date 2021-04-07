@@ -13,3 +13,4 @@ C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\
 C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\ref\C sharp HT Arrays.dll
 C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.pdb
 C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.genruntimeconfig.cache
+C:\Users\Александр\source\repos\C sharp homework\C sharp HT Arrays\obj\Debug\net5.0\C sharp HT Arrays.csprojAssemblyReference.cache

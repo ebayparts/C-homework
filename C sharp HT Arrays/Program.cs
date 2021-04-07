@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace C_sharp_HT_Arrays
@@ -59,7 +60,7 @@ namespace C_sharp_HT_Arrays
         }
         public override string ToString() => $"Title: \"{BookName}\"  Author: {bookAuthor}  Cipher: {bookCipher}  Year: {BookProductionYear}";
     }
-    class Library : IComparer<Book>
+    class Library : IComparer<Book>, IEnumerable
     {
         Book[] books = new Book[0];
         public void AddNewBook(string bookAuthor, string bookCipher, string bookName, int bookProductionYear)
@@ -71,7 +72,7 @@ namespace C_sharp_HT_Arrays
         }
         public void CheckUniqueBookCipher()
         {
-            Console.WriteLine("Check");
+            //Console.WriteLine($"Checking cipher uniqueness: {this.books[^1].BookCipher}") ;
             for (int i = 0; i < books.Length - 1; i++)
             {
                 if (books[i].BookCipher == books[books.Length - 1].BookCipher)
@@ -134,6 +135,28 @@ namespace C_sharp_HT_Arrays
         }
 
         private bool IsValidIndex(int index) => index >= 0 && index <= books.Length - 1;
+        public IEnumerator GetEnumerator()
+        {
+            foreach (Book b in books)
+            {
+                yield return b;
+            }
+        }
+        public IEnumerable<Book> GetReversedLibrary()
+        {
+            for (int i = books.Length-1; i > -1; i--)
+            {
+                yield return books[i];
+            }
+        }
+        public IEnumerable<Book> GetBooksOneAuthor(string author)
+        {
+            foreach (Book b in books)
+            {
+                if(b.BookAuthor==author) 
+                    yield return b;
+            }
+        }
         public Book this[int index]
         {
             get
@@ -213,32 +236,43 @@ namespace C_sharp_HT_Arrays
             library.AddNewBook("Group of authors", "453778694", "Travels", 2020);
             library.AddNewBook("Author Batkovych", "745645345", "Tom Sojer Adventures", 1950);
             library.AddNewBook("Taras Shevchenko", "453778694", "Kobsar", 1840);
-            library.ShowBooks();
-            library.DeleteBook("745645345");
-            Console.WriteLine("After deleting \"Author Batkovych\", \"745645345\", \"Tom Sojer Adventures\", 1950");
-            library.ShowBooks();
+            //library.ShowBooks();
+            //library.DeleteBook("745645345");
+            //Console.WriteLine("After deleting \"Author Batkovych\", \"745645345\", \"Tom Sojer Adventures\", 1950");
+            //library.ShowBooks();
             library.SortingBooksByAuthor();
-            library.ShowBooks();
+            //library.ShowBooks();
             library.SortingBooksByYearAndAuthor();
-            library.ShowBooks();
+            //library.ShowBooks();
             string searchedBook = "Nikoduma";
             int foundIndex = library.FindBook("Nikoduma");
-            Console.WriteLine($"Search for book of {searchedBook}: {foundIndex}");
+            //Console.WriteLine($"Search for book of {searchedBook}: {foundIndex}");
             ////Second hometask /// indexator theme:
 
-            Console.WriteLine($"Old data of book 2: {library[1]}");
+            // Console.WriteLine($"Old data of book 2: {library[1]}");
             library[1].BookAuthor = "A.Pushkin";
             library[1].BookCipher = "12345678";
             library[1].BookProductionYear = 1820;
             library[1].BookName = "Ruslan and Ludmila";
-            Console.WriteLine($"New data of book 2: {library[1]}");
+            //Console.WriteLine($"New data of book 2: {library[1]}");
             library.AddNewBook("Pavlo Tychuna", "12345678", "Newest book production", 2020);
-            Console.WriteLine($"Checking book cipher uniqueness :\n {library[5]}");
+            //Console.WriteLine($"Checking book cipher uniqueness :\n {library[5]}");
 
-
-
-
-
+            Console.WriteLine("Hometask new: IEnumerable realization:");
+            foreach (var b in library)
+            {
+                Console.WriteLine(b);
+            }
+            Console.WriteLine("Reversed Library:");
+            foreach (var b in library.GetReversedLibrary())
+            {
+                Console.WriteLine(b);
+            }
+            Console.WriteLine("A.Pushkin books Library:");
+            foreach (var b in library.GetBooksOneAuthor("A.Pushkin"))
+            {
+                Console.WriteLine(b);
+            }
         }
     }
 }
